@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vhZinnxz/vhZinnxz/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/vhZinnxz/vhZinnxz/output/github-contribution-grid-snake.gif"/>
 </p>
 
 ---
