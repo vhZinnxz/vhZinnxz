@@ -45,14 +45,6 @@
 
 ---
 
-# 🐍 Contribuições
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/vhZinnzx/vhZinnzx/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🌎 Contato
 
 <p align="center">
@@ -65,6 +57,12 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/vhZinnzx/vhZinnzx/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
