@@ -58,9 +58,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vhZinnxz/vhZinnxz/output/github-contribution-grid-snake.gif"/>
-</p>
+## Currently Learning
+
+- Java
+- Python
+- Programming Fundamentals
+- Logic and Problem Solving
 
 ---
 
