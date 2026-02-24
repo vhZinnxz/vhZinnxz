@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: vhZinnzx
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
