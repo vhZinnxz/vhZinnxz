@@ -2,7 +2,7 @@
 <h3 align="center">💻 Técnico em Computação | Futuro Desenvolvedor | Gamer</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vhZinnzx&label=Visualizações&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vhZinnzx&label=Visualizações&color=blue&style=flat"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,linux"/>
 </p>
 
 ---
@@ -44,6 +44,8 @@
 </p>
 
 ---
+
+# 🐍 Contribuições
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/vhZinnzx/vhZinnzx/output/github-contribution-grid-snake.svg"/>
