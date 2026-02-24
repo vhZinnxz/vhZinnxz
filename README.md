@@ -2,7 +2,7 @@
 <h3 align="center">💻 Técnico em Computação | Futuro Desenvolvedor | Gamer</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vhZinnzx&label=Visualizações&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=vhZinnxz&label=Visualizações&color=blue&style=flat"/>
 </p>
 
 ---
@@ -27,12 +27,12 @@
 # 📊 Estatísticas
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vhZinnzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhZinnzx&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vhZinnxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhZinnxz&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vhZinnzx&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=vhZinnxz&theme=tokyonight"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 # 🏆 Troféus
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vhZinnzx&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vhZinnxz&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -68,9 +68,3 @@
 ---
 
 # 🧠 Filosofia
-
-```
-Primeiro faz funcionar.
-Depois faz bonito.
-Depois faz rápido.
-```
