@@ -57,7 +57,7 @@ I am committed to continuous learning and developing real-world projects to stre
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vhZinnxz/vhZinnxz/output/github-contribution-grid-snake.gif"/>
+<img src="https://raw.githubusercontent.com/vhZinnxz/vhZinnxz/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
