@@ -1,27 +1,26 @@
 name: generate snake
 
-permissions:
-  contents: write
-
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # executa a cada 12 horas
+  workflow_dispatch:        # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      # Pega o código do repositório
+      - uses: actions/checkout@v3
+
+      # Gera a cobrinha do GitHub contributions
+      - uses: Platane/snk@v3
         with:
           github_user_name: vhZinnxz
-          outputs: |
-            dist/github-contribution-grid-snake.gif
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      # Publica no branch output (ou outro que você use)
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
