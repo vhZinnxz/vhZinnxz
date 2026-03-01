@@ -26,7 +26,7 @@ I am committed to continuous learning and developing real-world projects to stre
 
 ## Currently Learning
 
-- Java
+- JavaScript
 - Python
 - Programming Fundamentals
 - Logic and Problem Solving
